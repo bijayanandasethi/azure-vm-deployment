@@ -1,0 +1,4 @@
+Azure VM Deployment Steps:
+1. Created a Resource Group: rg-cv-monitoring
+2. Deployed an Ubuntu Virtual Machine inside the resource group.
+3. Enabled basic CPU metrics monitoring alerts.
